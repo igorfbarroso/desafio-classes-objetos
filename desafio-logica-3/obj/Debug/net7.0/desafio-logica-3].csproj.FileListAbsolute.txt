@@ -1,0 +1,14 @@
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-3\desafio-logica-3\bin\Debug\net7.0\desafio-logica-3].exe
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-3\desafio-logica-3\bin\Debug\net7.0\desafio-logica-3].deps.json
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-3\desafio-logica-3\bin\Debug\net7.0\desafio-logica-3].runtimeconfig.json
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-3\desafio-logica-3\bin\Debug\net7.0\desafio-logica-3].dll
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-3\desafio-logica-3\bin\Debug\net7.0\desafio-logica-3].pdb
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-3\desafio-logica-3\obj\Debug\net7.0\desafio-logica-3].GeneratedMSBuildEditorConfig.editorconfig
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-3\desafio-logica-3\obj\Debug\net7.0\desafio-logica-3].AssemblyInfoInputs.cache
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-3\desafio-logica-3\obj\Debug\net7.0\desafio-logica-3].AssemblyInfo.cs
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-3\desafio-logica-3\obj\Debug\net7.0\desafio-logica-3].csproj.CoreCompileInputs.cache
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-3\desafio-logica-3\obj\Debug\net7.0\desafio-logica-3].dll
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-3\desafio-logica-3\obj\Debug\net7.0\refint\desafio-logica-3].dll
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-3\desafio-logica-3\obj\Debug\net7.0\desafio-logica-3].pdb
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-3\desafio-logica-3\obj\Debug\net7.0\desafio-logica-3].genruntimeconfig.cache
+D:\CURSO DE LÓGICA\Desafio-logica\desafio-logica-3\desafio-logica-3\obj\Debug\net7.0\ref\desafio-logica-3].dll
